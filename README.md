@@ -2,8 +2,8 @@
 
 -/Obj1 : Validé
 
--/Obj2 : En cours
+-/Obj2 : Validé
 
--/Obj3 : En cours
+-/Obj3 : Validé
 
 -/Obj4 : Non Fait
