@@ -421,18 +421,6 @@
         </Group>
         <Group>
           <GroupName>MatLab</GroupName>
-          <Files>
-            <File>
-              <FileName>Trigo.asm</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\Trigo.asm</FilePath>
-            </File>
-            <File>
-              <FileName>TabSig.asm</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\TabSig.asm</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
